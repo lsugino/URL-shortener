@@ -1,0 +1,16 @@
+body {
+	display:inline;
+	background: #33CCFF;
+	font-family: 'Sintony', sans-serif;
+}
+
+#container {
+	text-align: center;
+	background: #D0D0D0;
+	border: solid black;
+	border-width: thin;
+}
+
+.shortened-link {
+	font-size: 20px;
+}
